@@ -1,5 +1,5 @@
 #!/bin/bash
-set -eE
+#set -eE
 
 export LC_ALL=C
 export LD_LIBRARY_PATH=
